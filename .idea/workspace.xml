@@ -47,7 +47,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.CounterTest">
     <configuration name="All in JavaTDD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="JavaTDD" />
       <option name="PACKAGE_NAME" value="" />
@@ -56,8 +56,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaTDD" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CounterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CounterTest" />
         <item itemvalue="JUnit.All in JavaTDD" />
       </list>
     </recent_temporary>
@@ -89,25 +99,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="880" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1604305308006" />
+    <state x="1144" y="307" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1604305889448">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1144" y="307" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604305889448" />
     <state x="1220" y="275" key="FileChooserDialogImpl" timestamp="1604305256225">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604305256224" />
-    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1604305372382">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1604305694183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604305372382" />
-    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1604305372382">
+    <state width="914" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604305694183" />
+    <state width="914" height="279" key="GridCell.Tab.0.center" timestamp="1604305694183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604305372382" />
-    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1604305372382">
+    <state width="914" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604305694183" />
+    <state width="914" height="279" key="GridCell.Tab.0.left" timestamp="1604305694183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604305372382" />
-    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1604305372382">
+    <state width="914" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604305694183" />
+    <state width="914" height="279" key="GridCell.Tab.0.right" timestamp="1604305694183">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="914" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604305372382" />
+    <state width="914" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604305694183" />
   </component>
 </project>
