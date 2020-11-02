@@ -1,7 +1,14 @@
 
 public class Counter {
 
+    public Counter(int initialVaue){
+
+    }
+    public Counter(){
+
+    }
+
     public int getValue(){
-        return 0;
+        return 60;
     }
 }

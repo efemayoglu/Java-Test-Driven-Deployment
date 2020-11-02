@@ -6,15 +6,13 @@ class CounterTest {
     public void testCreation(){
         Counter dog = new Counter();
         assertNotNull(dog);
-
-
     }
     @org.junit.jupiter.api.Test
     public void testGetValue(){
         int initialValue = 30;
-        Counter dog = new Counter();
+        Counter dog = new Counter(initialValue;
         int value = dog.getValue();
-        assertEquals(value, 60);
+        assertEquals(initialValue, value);
 
     }
 }
